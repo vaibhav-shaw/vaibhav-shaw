@@ -1,16 +1,19 @@
 ![logo](https://github.com/vaibhav-shaw/vaibhav-shaw/blob/3e1b07c08da333511eb30fe390be50dafcf8d148/Cover%20pic%20Github.png)
 
 <h1 align="center">Glad You're Here! Dive In!</h1>
-
+<img align="right" alt="coding_pic" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vaibhav-shaw&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-shaw" /> 
 </p>
+
+
 
 - 📫 How to reach me **vaibhavshaw2@gmail.com**
 
 - 📄 Resume [Link](https://drive.google.com/drive/folders/121nrkH1dBeLe-9Z0FLrvwweaYDJVfeUW)
 
 - 💻 Fun fact **I’m 90% sure that my code works 100% of the time… until it doesn’t!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
